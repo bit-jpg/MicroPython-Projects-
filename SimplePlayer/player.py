@@ -4,12 +4,12 @@ AI was only used on freqs.py and notes.py!
 '''
 from machine import Pin, PWM
 import time
-import freqs, notes, bad_apple
+import freqs, notes, bad_apple as s
 
 freq = freqs.freq
 notes = notes.notes
-song = bad_apple.song
-bpm = bad_apple.bpm
+song = s.song
+bpm = s.bpm
 
 buzzer = PWM(Pin(23))
 # Works
