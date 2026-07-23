@@ -26,7 +26,7 @@ song = [
 ## Playing A Song
 You can figure it out :) <br>
 ```python
-import <bad_apple> as s
+import bad_apple as s
 ```
 Just replace `bad_apple`
 ## Why?
