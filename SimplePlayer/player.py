@@ -4,7 +4,10 @@ AI was only used on freqs.py and notes.py!
 '''
 from machine import Pin, PWM
 import time
-import freqs, notes, bad_apple as s
+import freqs, notes
+# Replace this when needed
+#      |  THIS |
+import bad_apple as s
 
 freq = freqs.freq
 notes = notes.notes

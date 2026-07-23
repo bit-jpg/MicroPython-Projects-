@@ -22,3 +22,12 @@ song = [
 ```
 - 1 should be the frequency example 'C4'.
 - 2 should be any of the common notes.
+
+## Playing A Song
+You can figure it out :) <br>
+```python
+import <bad_apple> as s
+```
+Just replace `bad_apple`
+## Why?
+I don't know but its fun making this. It is also a way to test my skills.
