@@ -2,7 +2,7 @@
 
 ## Lisence
 The Skill Issue License
-(c) <year> <full name/nickname>
+(c) <2067> <bit-jpg>
 
 keep this license in every fork of the software it is used on.
 If you're gonna make a fork, you may NOT say that it is your own creation.
